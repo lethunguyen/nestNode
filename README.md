@@ -14,3 +14,13 @@ npm install --save typeorm mysql2
 npx create-react-app client
 
 ```
+# Kiem tra các package đã cài
+
+```
+npm --version
+node --version
+npm list
+node list
+
+
+```
